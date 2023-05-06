@@ -1,5 +1,5 @@
 {
-  "name": "zoom-clone-template",
+  "name": "zoom-clone",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,8 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "npx http-server --cors .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx http-server --cors ."
   },
   "keywords": [],
   "author": "ganascimento",
